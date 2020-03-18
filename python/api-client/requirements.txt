@@ -1,0 +1,5 @@
+python-dateutil
+six
+urllib3
+vcd-api-schemas-type
+PyYAML

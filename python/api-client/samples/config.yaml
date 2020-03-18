@@ -1,0 +1,7 @@
+vcd:
+# Fill in the vCloud Dirctor host, sysadmin credentials and other related
+# information here. These will be required for the tests to run.
+  host: '<vcd ip>'
+  org: 'System'
+  user: 'administrator'
+  password: '<root-password>'
